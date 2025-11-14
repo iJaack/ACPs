@@ -341,8 +341,6 @@ The 24x multiplier change has **minimal impact** on P-Chain resources:
 
 **Mitigation**: This proposal optimizes efficiency, not accessibility. Different ACPs can address participation barriers.
 
----
-
 ## Backwards Compatibility
 
 ### Breaking Changes: None
