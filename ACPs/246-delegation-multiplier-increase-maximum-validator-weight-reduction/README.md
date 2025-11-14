@@ -74,7 +74,7 @@ Implement two complementary changes:
 1. **Reduce maximum validator weight to 1,000,000 AVAX** - Prevents dangerous concentration
 2. **Increase delegation multiplier to 24x** - Enables efficient capital deployment within weight constraint
 
-**Resulting Economics at 24x Multiplier** (at $20 AVAX, 8.25% APY, 5% delegation fee):
+**Resulting Economics at 24x Multiplier** (at $20 AVAX, 2,000 AVAX self-stake, 8.25% APY, 5% delegation fee):
 
 | Metric | Current (4x) | Proposed (24x) | Change |
 |--------|-------------|---|---|
