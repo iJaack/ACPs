@@ -382,8 +382,6 @@ This proposal maintains full backwards compatibility:
    - YES: Maintain current barrier (approved)
    - NO: Lower it (pursue separate ACP)
 
----
-
 ## Copyright
 
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
