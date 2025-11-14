@@ -5,8 +5,6 @@
 | **Status** | Proposed |
 | **Track** | Standards |
 
----
-
 ## Abstract
 
 This Avalanche Community Proposal advocates for two targeted adjustments to Primary Network validator staking parameters: (1) reducing the maximum validator weight from 3,000,000 AVAX to **1,000,000 AVAX** to prevent excessive stake concentration; and (2) increasing the delegation multiplier from 5x to **24x** to enable validators to efficiently serve larger delegated bases within the new weight constraint. These changes maintain the 2,000 AVAX minimum validator stake and focus on improving capital efficiency for existing, well-capitalized validators rather than broadening participation.
