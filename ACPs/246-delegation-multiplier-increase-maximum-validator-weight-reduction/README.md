@@ -242,8 +242,6 @@ All scenarios calculated at:
 - Market-based fee competition works as intended
 - Expected outcome: More validators accept delegations, earning fees
 
----
-
 ## Network Impact Analysis
 
 ### P-Chain Load Considerations
