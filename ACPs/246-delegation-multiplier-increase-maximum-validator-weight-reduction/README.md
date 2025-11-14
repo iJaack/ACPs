@@ -91,8 +91,6 @@ This transformation:
 - **Unlocks dormant validator capacity** (current 52.8% with zero delegations)
 - **Enables sustainable single-node operations** at scale
 
----
-
 ## Specification
 
 ### Technical Changes
