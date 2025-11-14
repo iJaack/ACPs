@@ -370,8 +370,6 @@ This proposal maintains full backwards compatibility:
 - Validators optimize delegation capacity within constraints
 - Fee market establishes new equilibrium
 
----
-
 ## Open Questions
 
 **Core Question**: "Should Avalanche prioritize validator capital efficiency through multiplier increase and weight cap reduction?"
