@@ -272,8 +272,6 @@ The 24x multiplier change has **minimal impact** on P-Chain resources:
 - Individual validators limited to 0.14% of maximum supply (vs 0.42% current)
 - Prevents dangerous mega-validators
 
----
-
 ## Consequences Analysis
 
 ### Positive Consequences
