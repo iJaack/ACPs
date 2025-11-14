@@ -158,8 +158,6 @@ The following parameters remain **UNCHANGED**:
 | Slashing penalty | None | Unchanged |
 | Reward formula | Same | APY calculations unchanged |
 
----
-
 ## Economic Impact Analysis
 
 ### Validator Profitability Scenarios
