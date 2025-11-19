@@ -2,7 +2,7 @@
 | :--- | :--- |
 | **Title** | Delegation Multiplier Increase & Maximum Validator Weight Reduction |
 | **Authors** | Giacomo Barbieri ([@ijaack94](https://x.com/ijaack94)), BENQI ([@benqifinance](https://x.com/benqifinance)) |
-| **Status** | Proposed |
+| **Status** | Proposed ([Discussion](https://github.com/avalanche-foundation/ACPs/discussions/248)) |
 | **Track** | Standards |
 
 ## Abstract
