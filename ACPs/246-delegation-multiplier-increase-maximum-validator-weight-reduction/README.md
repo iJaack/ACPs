@@ -56,7 +56,7 @@ Real validator distribution data (as of October 28, 2025) provides empirical evi
 4. **Small validators (2k-5k AVAX self-stake)** cannot compete for delegations
 
 **Validator Self-Stake Distribution**:
-- 447 validators (52.3%) have only 1k-5k AVAX self-stake
+- 447 validators (52.3%) have only 2k-5k AVAX self-stake
 - Most of these are probably unprofitable or barely breaking even
 - They cannot attract delegations at current economics
 - Our profitability calculations ($180/month) match their behavior
@@ -140,7 +140,7 @@ MaxDelegatorStake = 48,000 AVAX
 
 **Implementation Details**:
 - Applies uniformly to all validators
-- Only validators with 41,667+ AVAX self-stake cannot utilize full 24x due to 1M weight cap
+- Only validators with 40,000+ AVAX self-stake cannot utilize full 24x due to 1M weight cap
 - All 2,000 AVAX validators can deploy full 24x multiplier
 - Non-breaking for existing delegation relationships
 
