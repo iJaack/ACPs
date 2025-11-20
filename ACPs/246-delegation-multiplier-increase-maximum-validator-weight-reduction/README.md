@@ -53,7 +53,7 @@ Real validator distribution data (as of October 28, 2025) provides empirical evi
 1. **Validators don't put much effort into collecting delegations** because they can't really make a business out of it
 2. **Delegation is highly concentrated** among only ~100 top-performing validators
 3. **Current system severely underutilizes validator infrastructure** across the network
-4. **Small validators (1k-5k AVAX self-stake)** cannot compete for delegations
+4. **Small validators (2k-5k AVAX self-stake)** cannot compete for delegations
 
 **Validator Self-Stake Distribution**:
 - 447 validators (52.3%) have only 1k-5k AVAX self-stake
